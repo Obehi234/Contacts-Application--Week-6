@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Week 6 Contacts Application</string>
+    <string name="favorite_contact_image">favorite contact image</string>
+    <string name="favorite_contact_name">Name</string>
+    <string name="new_contact">New Contact</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="save">Save</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "365450172366",
+    "firebase_url": "https://kapitaine-foodary-default-rtdb.firebaseio.com",
+    "project_id": "kapitaine-foodary",
+    "storage_bucket": "kapitaine-foodary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365450172366:android:0716b22a53922fcaf23d9f",
+        "android_client_info": {
+          "package_name": "com.example.week6contactsapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365450172366-bqt7a4bh2e99lhmp1a8qu45lej1c71vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMmUEUIZRDG2N1fHY9yiGDbe2uVrK0WJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365450172366-bqt7a4bh2e99lhmp1a8qu45lej1c71vf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
